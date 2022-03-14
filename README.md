@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkidawa&show_icons=true&locale=en&layout=compact" alt="mkidawa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkidawa&show_icons=true&locale=en" alt="mkidawa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkidawa&" alt="mkidawa" /></p>
