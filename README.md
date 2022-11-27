@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkidawa&label=Profile%20views&color=0e75b6&style=flat" alt="mkidawa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkidawa" alt="mkidawa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkidawa&theme=onedark" alt="mkidawa" /></a> </p>
 
 - 📫 How to reach me **mkidawa1@gmail.com**
 
